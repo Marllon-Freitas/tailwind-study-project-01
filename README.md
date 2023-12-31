@@ -1,5 +1,7 @@
 # React + Vite + tailwind
 
+ <img src="https://skillicons.dev/icons?i=react,vite,js,tailwind" />
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:

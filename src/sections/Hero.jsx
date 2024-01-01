@@ -1,3 +1,6 @@
+import Button from '../components/Button';
+import { arrowRight } from '../assets/icons';
+
 const Hero = () => {
   return (
     <section
@@ -17,6 +20,7 @@ const Hero = () => {
           Nulla sint quibusdam nobis est iure quidem! Repellendus, velit
           tenetur.
         </p>
+        <Button label="Shop now" iconURL={arrowRight} />
       </div>
     </section>
   );
